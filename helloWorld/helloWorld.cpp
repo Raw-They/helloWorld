@@ -8,6 +8,6 @@ Hello World Program
 
 
 int main() {
-	cout << "Hello World";
+	cout << "Hello Universe";
 	return 0;
 }
